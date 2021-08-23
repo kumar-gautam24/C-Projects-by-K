@@ -1,2 +1,2 @@
 # C-Projects-by-K
-C projects I do
+I try to get familiar with Github and do some meaningful projects here.
